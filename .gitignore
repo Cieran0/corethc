@@ -29,4 +29,7 @@
 # Executables
 *.exe
 *.out
+main
+corethc
+coreth
 *.app
